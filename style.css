@@ -379,3 +379,9 @@ header img {
 .footer strong {
   color: #ccc;
 }
+/* Conteneur principal centré */
+.container {
+  max-width: 1100px;
+  margin: 0 auto; /* Centre horizontalement */
+  padding: 20px; /* Ajoute de l’espace sur les côtés */
+}

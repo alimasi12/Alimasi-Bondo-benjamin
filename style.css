@@ -103,7 +103,8 @@ footer {
 }
 header img {
     height: 70px;
-    margin-right: 1200px;
+    margin: 0 auto;
+    display: block;
 }
  /* Section identité */
 .identite {

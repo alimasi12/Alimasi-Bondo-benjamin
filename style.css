@@ -16,6 +16,7 @@ header {
     text-align: center;
     height: 200px;
     background-size: cover;
+    margin: 0;
 }
 .passion{
     font-style: italic;

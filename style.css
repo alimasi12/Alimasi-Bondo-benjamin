@@ -1,4 +1,9 @@
 /* Général */
+*{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -12,12 +17,13 @@ body {
 header {
     background: url(background.jpg);
     color: #fff;
-    padding: 20px 0;
+    padding: 0;
     text-align: center;
     height: 200px;
     background-size: cover;
     margin: 0;
     width: 100%;
+    
 }
 .passion{
     font-style: italic;
